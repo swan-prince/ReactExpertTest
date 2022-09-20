@@ -1,6 +1,6 @@
 # Your Task: Creating a multistep form in react
 
-## [LINK TO FIGMA](https://www.figma.com/file/2FIzIuiFeHaWlNsjF0Z2gE/Keyring-Multistep-Modal-Form?node-id=0%3A1)
+## [LINK TO FIGMA](https://www.figma.com/file/DZ7TtOh8T512LPEGlnQx3m/Keyring-Multistep-Modal-Form?node-id=1%3A1771)
 
 ## Description
 
